@@ -1,0 +1,64 @@
+.horizontal {
+    display: flex;
+    flex-direction: row;
+}
+
+.spaceout {
+    justify-content: space-between;
+}
+
+.left {
+    padding: 1rem;
+}
+
+.right {
+    padding: 1rem;
+}
+
+span {
+    margin: 10px;
+}
+
+.googleBody {
+    display: flex;
+    flex-direction: column;
+    margin-left : 40%
+}
+
+img {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.searchInput {
+    border-radius: 15px;
+    padding: 10px;
+    width: 272px;
+    border-width: 0.5px;
+    margin-top: 10px;
+}
+
+.bodyButtonDiv {
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+button {
+    margin: 6px;
+    padding: 6px
+}
+
+.googleFooter {
+    position: absolute;
+    bottom: 0px;
+}
+
+.shadedDiv {
+    background-color: #dadce0;
+    padding: 10px;
+    width: 100vw;
+}
+
+hr {
+    margin: 0px;
+}
